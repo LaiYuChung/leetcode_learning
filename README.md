@@ -1,5 +1,7 @@
 # leetcode_learning
 
+## Week 1 
+
 ### 7/6 finish:
 ploblem 1,7,9,27
 
@@ -16,3 +18,10 @@ ploblem 67,69,169,268,283
 
 ### 7/10 finish:
 ploblem 344,349,371,389,412
+
+### 7/11 finish:
+ploblem 566
+
+### W1 total finish: 22
+
+### 7/13
